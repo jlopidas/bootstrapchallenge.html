@@ -1,2 +1,0 @@
-# bootstrapchallenge.html
-Bootstrap Challenge
